@@ -1,0 +1,8 @@
+{
+  "name": "chat-format-declare",
+  "version": "1.0.4",
+  "description": "Script for ChatFormat",
+  "author": "InkerBot",
+  "license": "MIT",
+  "types": "index.d.ts"
+}
