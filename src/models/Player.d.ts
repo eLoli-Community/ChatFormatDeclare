@@ -4,4 +4,5 @@ interface Player {
     getDisplayName():string;
     getLocation():string;
     hasPermission(permission:string):boolean;
+    notice():void;
 }
